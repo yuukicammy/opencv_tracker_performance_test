@@ -103,6 +103,9 @@ int main(int argc, char** argv)
 		parser.printErrors();
 		return -1;
 	}
+
+	CheckTrackerAlgType(tracker_algorithm);
+
 	// for random colors
 	std::random_device rnd; 
 	std::mt19937 mt(rnd());

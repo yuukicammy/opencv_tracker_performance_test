@@ -99,6 +99,8 @@ int main(int argc, char** argv)
 		return -1;
 	}
 
+	CheckTrackerAlgType(tracker_algorithm);
+
 	//open the capture
 	cv::VideoCapture cap;
 	cap.open(video_name);
