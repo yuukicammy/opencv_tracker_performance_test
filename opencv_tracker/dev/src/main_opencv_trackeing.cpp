@@ -8,7 +8,6 @@
 #include <iomanip>
 #include <fstream>
 
-#include "link_boost.h"
 #include <boost/timer/timer.hpp>
 
 const cv::String Keys =
