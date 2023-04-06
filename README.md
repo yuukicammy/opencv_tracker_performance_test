@@ -11,12 +11,12 @@ This code is for testing the performance of the Tracking API introduced in OpenC
 
 ## Results on YouTube
 
-It is easy to see the performance test results with this code from the video.  
+You can easily understand the performance test results with this code from the video.
 [[YouTube] OpenCV 3.0 Tracking API Results](https://youtu.be/pj-QuE6pdEQ )
 
 ## Blog (Japanese)
 
-I explained it in more detail.  
+I described the performance test in the following blog in more detail. 
 [[Blog] About the OpenCV Tracking API (Japanese)](https://irohalog.hatenablog.com/entry/opencv_tracking_api )
 
 ## Performance Evaluation
