@@ -40,10 +40,10 @@ Average fps when tracked on a PC with Intel Core i7-5820K CPU (3.30 GHz), 32GB R
 KCF performs well in terms of both tracking accuracy and processing speed.
 
 * Success plot (region overlap)  
-<a href="http://f.hatena.ne.jp/Ytra/20151220204437"><img src="http://img.f.hatena.ne.jp/images/fotolife/Y/Ytra/20151220/20151220204437.png" alt="20151220204437" width="300"></a>
+<a href="./tracker_benchmark_v1.0/figs/overall/ALL/overlap.png"><img src="./tracker_benchmark_v1.0/figs/overall/ALL/overlap.png" alt="20151220204437" width="300"></a>
 
 * Precision plot (center position error)  
-<a href="https://cdn-ak.f.st-hatena.com/images/fotolife/Y/Ytra/20151220/20151220204436.png"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/Y/Ytra/20151220/20151220204436.png" alt="20151220204436p" width="300"></a>
+<a href="./tracker_benchmark_v1.0/figs/overall/ALL/location_error.png"><img src="./tracker_benchmark_v1.0/figs/overall/ALL/location_error.png" alt="20151220204436p" width="300"></a>
 
 * Processing Speed (fps)   
 
